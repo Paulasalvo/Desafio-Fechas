@@ -41,6 +41,7 @@ public class Fechas {
 				}
 			}
 		}
+		sc.close();
 			
 	}				
 	
